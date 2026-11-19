@@ -1,0 +1,28 @@
+NSS DYP COE WEBSITE — ASSET SETUP
+
+1. Keep index.html, style.css and script.js together.
+2. Create an assets folder beside index.html.
+3. Add your supplied NSS logo as: assets/nss-logo.png
+4. Add the home/team background photo as: assets/nss-team-home.jpg
+5. Add the eight member photos using the exact filenames referenced in index.html:
+   member-1-mahesh-tatikonda.jpg
+   member-2-malathi.jpg
+   member-3-sarnobat.jpg
+   member-4-pataskar.jpg
+   member-5-pramod-chougule.jpg
+   member-6-utkarsha-kharade.jpg
+   member-7-sarthak-tikate.jpg
+   member-8-shrestha-shatakshee.jpg
+6. Add activity photos:
+   activity-raksha-bandhan.jpg
+   activity-vertical-garden.jpg
+   activity-nss-day-2026.jpg
+   activity-noise-monitoring.jpg
+   activity-food-donation.jpg
+   activity-drug-awareness-rally.jpg
+   activity-blood-donation.jpg
+7. Add the camp PDFs:
+   day-1.pdf, day-2.pdf, day-3.pdf, day-4.pdf, day-5.pdf, day-6.pdf, day-7.pdf
+
+Images are not embedded in the HTML. They are loaded from these local paths, so replace the files while keeping the names unchanged, or edit the src values in index.html.
+Open index.html in your browser. For best local PDF/image behavior, use VS Code Live Server.
